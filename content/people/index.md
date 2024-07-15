@@ -13,8 +13,11 @@ sections:
       user_groups:
           - Principal Investigators
           - Researchers
-          - Grad Students
           - Administration
+          - Grad Students
+          - PhD Students
+          - Master Student
+          - Undergraduates
           - Visitors
           - Alumni
       sort_by: Params.last_name
