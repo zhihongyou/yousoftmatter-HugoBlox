@@ -13,13 +13,13 @@ title: Zihan Guo (郭子晗)
 
 # Username (this should match the folder name)
 authors:
-  - ZihanGuo
+  - ZihanGuo2022
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Master Students
+role: Master Student
 
 # Organizations/Affiliations
 organizations:
