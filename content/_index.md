@@ -7,15 +7,13 @@ type: landing
 sections:
   - block: hero
     content:
-      title: |
-        Wowchemy
-        Research Group
+      title: You Soft Matter Group
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        We are interested in the emergence in active/living matter. From cellular cytoskeleton to animal groups, these systems ubiquitously exhibit novel "microscopic" dynamics which, subsequently lead to fascinating collective behaviors. To uncover the mysteries behind these phenomena, we use theoretical modeling with the help of computer simulations. Our research is interest oriented, involving various subjects in active/living matter, e.g. bacterial colonies, active fluids and their interfaces, and systems with broken Newton's 3rd law. Go ahead and explor this site if you'd like to know more :).
   
   - block: collection
     content:
