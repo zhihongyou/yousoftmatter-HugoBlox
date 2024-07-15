@@ -6,7 +6,7 @@ title: Zhihong You (游智鸿)
 superuser: true
 
 # Role/position
-role: Professor
+role: Principal Investigator
 
 # Organizations/Affiliations
 organizations:

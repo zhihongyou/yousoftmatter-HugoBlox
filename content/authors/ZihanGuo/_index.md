@@ -19,7 +19,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Master Student
+role: Master Students
 
 # Organizations/Affiliations
 organizations:
