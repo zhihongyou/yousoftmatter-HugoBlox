@@ -38,7 +38,8 @@ image:
 projects: []
 publishDate: '2022-08-25T05:35:44.507385Z'
 publication_types:
-- '2'
+- journal-article
+- all
 abstract: ''
 publication: '*Science*'
 publication: '*Science 377(6607), 768-772*'

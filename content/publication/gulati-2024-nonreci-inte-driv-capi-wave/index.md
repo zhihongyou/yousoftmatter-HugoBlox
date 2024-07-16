@@ -16,7 +16,7 @@ authors:
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2024-01-01'
+date: '2024-07-05'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
 publishDate: '2024-07-09T15:38:47.980056Z'
@@ -25,6 +25,7 @@ publishDate: '2024-07-09T15:38:47.980056Z'
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
 publication_types:
 - manuscript
+- all
 
 # Publication name and optional abbreviated publication name.
 publication: ''
@@ -75,6 +76,10 @@ links:
   url: https://arxiv.org/abs/2407.04196
 - name: URL
   url: https://arxiv.org/abs/2407.04196
+url_pdf: https://arxiv.org/pdf/2407.04196  
 ---
 
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
+
+**Abstract**:
+
+Active liquid crystals exert nonequilibrium stresses on their surroundings through constant consumption of energy, giving rise to dynamical steady states not present in equilibrium. The paradigmatic example of an active liquid crystal is a suspension of microtubule bundles powered by kinesin motor proteins, which exhibits self-sustained spatiotemporal chaotic flows. This system has been modelled using continuum theories that couple the microtubule orientation to active flows. Recently the focus has shifted to the interfacial properties of mixtures of active liquid crystals and passive fluids. Active/passive interfaces have been shown to support propagating capillary waves in the absence of inertia and offer a promising route for relating experimental parameters to those of the continuum theory. In this paper we report the derivation of a minimal model that captures the linear dynamics of the interface between an active liquid crystal and a passive fluid. We show that the dynamics of the interface, although powered by active flows throughout the bulk, is qualitatively captured by equations that couple non-reciprocally interface height and nematic director at the interface. This minimal model reproduces the dynamical structure factor evaluated from numerical simulations and the qualitative form of the wave dispersion relation seen in experiments.

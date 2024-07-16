@@ -34,7 +34,8 @@ image:
 projects: []
 publishDate: '2022-06-14T19:02:38.993311Z'
 publication_types:
-- '2'
+- journal-article
+- all
 abstract: ''
 publication: '*Applied Optics*'
 publication: '*Appl. Opt. 51(35), 8341*'

@@ -15,7 +15,7 @@ authors:
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2024-01-01'
+date: '2024-05-28'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
 publishDate: '2024-07-09T15:38:47.970249Z'
@@ -23,7 +23,8 @@ publishDate: '2024-07-09T15:38:47.970249Z'
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
 publication_types:
-- article-journal
+- journal-article
+- all
 
 # Publication name and optional abbreviated publication name.
 publication: '*Soft Matter*'
@@ -73,8 +74,11 @@ links:
 - name: URL
   url: http://dx.doi.org/10.1039/D4SM00372A
 - name: arXiv
-  url: https://arxiv.org/abs/2004.14890
-url_pdf: https://arxiv.org/pdf/2004.14890.pdf
+  url: https://arxiv.org/abs/2211.05332
+url_pdf: https://arxiv.org/pdf/2211.05332
 ---
 
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
+
+**Abstract**:
+
+In nature, active matter, such as worms or dogs, tend to spontaneously form a stable rotational cluster when they flock to the same food source on an unregulated and unconfined surface. {In this paper we present an n-node flexible active matter model to study the collective motion due to the flocking of individual agents on a two-dimensional surface, and confirm that there exists a spontaneous stable cluster rotation synchronizing with a chirality produced by the alignment of their bodies under the impetus of the active force.} A prefactor of 1.86 is obtained for the linear relationship between normalized angular velocity and chirality. The angular velocity of such a rotation is found to be dependent on the individual flexibility, the number of nodes in each individual, and the magnitude of the active force. The conclusions well explain the spontaneous stable rotation of clusters that exists in many flexible active matter, like worms or {dogs}, when they flock to the same single source.

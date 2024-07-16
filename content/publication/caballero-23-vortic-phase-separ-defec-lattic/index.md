@@ -35,7 +35,8 @@ image:
 projects: []
 publishDate: '2023-10-07T08:39:16.840529Z'
 publication_types:
-- '2'
+- journal-article
+- all
 abstract: ''
 publication: '*Soft Matter*'
 publication: '*Soft Matter*'

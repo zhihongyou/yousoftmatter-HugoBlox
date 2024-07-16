@@ -6,7 +6,7 @@ title: Zhihong You (游智鸿)
 superuser: true
 
 # Role/position
-role: Principal Investigator
+role: Professor
 
 # Organizations/Affiliations
 organizations:
@@ -64,7 +64,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Investigator
+  - Principal Investigators
 ---
 
 Zhihong You is a professor of theoretical physics at the Physics Department, Xiamen University. His research interests include soft active matter and biophysics.

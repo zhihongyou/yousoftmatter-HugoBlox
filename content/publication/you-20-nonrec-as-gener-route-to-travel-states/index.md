@@ -31,7 +31,8 @@ image:
 projects: []
 publishDate: '2022-06-14T19:02:39.414804Z'
 publication_types:
-- '2'
+- journal-article
+- all
 abstract: ''
 publication: '*Proceedings of the National Academy of Sciences*'
 publication: '*Proc. Natl. Acad. Sci. U.S.A. 117(33), 19767-19772*'

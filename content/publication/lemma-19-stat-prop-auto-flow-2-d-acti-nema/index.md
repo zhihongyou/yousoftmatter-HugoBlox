@@ -33,7 +33,8 @@ image:
 projects: []
 publishDate: '2022-06-14T19:02:39.224063Z'
 publication_types:
-- '2'
+- journal-article
+- all
 publication: '*Soft Matter*'
 publication: '*Soft Matter 15(15), 3264-3272*'
 doi: 10.1039/C8SM01877D

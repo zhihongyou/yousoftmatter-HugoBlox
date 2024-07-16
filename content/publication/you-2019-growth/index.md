@@ -34,7 +34,8 @@ url_pdf: https://scholarlypublications.universiteitleiden.nl/access/item%3A29105
 projects: []
 publishDate: '2022-06-14T19:29:21.042977Z'
 publication_types:
-- '7'
+- journal-article
+- all
 # abstract: ''
 publication: 'Leiden University PhD Thesis'
 ---

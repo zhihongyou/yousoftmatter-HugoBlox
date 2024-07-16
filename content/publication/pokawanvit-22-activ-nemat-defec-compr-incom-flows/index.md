@@ -34,7 +34,8 @@ image:
 projects: []
 publishDate: '2022-11-21T09:12:41.371530Z'
 publication_types:
-- '2'
+- journal-article
+- all
 abstract: ''
 publication: '*Physical Review E*'
 publication: '*Phys. Rev. E 106(5), 054610*'
@@ -46,3 +47,8 @@ links:
   url: https://arxiv.org/abs/2206.13598  
 url_pdf: https://arxiv.org/pdf/2206.13598.pdf
 ---
+
+
+**Abstract**:
+
+We study the dynamics of active nematic films on a substrate driven by active flows with or without the incompressible constraint. Through simulations and theoretical analysis, we show that arch patterns are stable in the compressible case, while they become unstable under the incompressibility constraint. For compressible flows at high enough activity, stable arches organize themselves into a smecticlike pattern, which induce an associated global polar ordering of +1/2 nematic defects. By contrast, divergence-free flows give rise to a local nematic order of the +1/2 defects, consisting of antialigned pairs of neighboring defects, as established in previous studies.

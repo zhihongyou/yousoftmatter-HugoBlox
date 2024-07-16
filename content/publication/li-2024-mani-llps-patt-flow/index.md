@@ -16,7 +16,7 @@ authors:
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2024-01-01'
+date: '2024-07-03'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
 publishDate: '2024-07-09T15:38:47.975964Z'
@@ -25,6 +25,7 @@ publishDate: '2024-07-09T15:38:47.975964Z'
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
 publication_types:
 - manuscript
+- all
 
 # Publication name and optional abbreviated publication name.
 publication: ''
@@ -75,6 +76,10 @@ links:
   url: https://arxiv.org/abs/2407.02792
 - name: URL
   url: https://arxiv.org/abs/2407.02792
+url_pdf: https://arxiv.org/pdf/2407.02792  
 ---
 
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
+
+**Abstract**:
+
+The precise control of liquid-liquid phase separation (LLPS) is the key to developing cutting-edge technologies that benefit diverse disciplines. Fluid flow was found to be capable of controlling the structure and effective temperature of LLPS, but the extent and precision of control were less than optimal. In this article, we propose that patterned flow can be employed as a generic tool to manipulate LLPS effectively. By combining theoretical modeling and numerical simulations, we demonstrate that flows with tailor-made structures can become functional, allowing us to control diverse aspects of LLPS. Typical examples include the capture and pinning of droplets, fine-tuning of droplet sizes, forced assembly of periodic droplet arrays, and the remodeling of the kinetics and structure of phase separation. These manipulations are grounded on the redistribution of chemical potential by the structured flow. Our results not only can lead to potential LLPS-based technologies, but also highlight the rich behavior of LLPS introduced by the patterned flow.

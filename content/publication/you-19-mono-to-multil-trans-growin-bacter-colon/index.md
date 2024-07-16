@@ -32,7 +32,8 @@ image:
 projects: []
 publishDate: '2022-06-14T19:02:39.320647Z'
 publication_types:
-- '2'
+- journal-article
+- all
 abstract: ''
 publication: '*Physical Review Letters*'
 publication: '*Phys. Rev. Lett. 123(17), 178001*'

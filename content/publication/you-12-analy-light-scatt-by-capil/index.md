@@ -32,7 +32,8 @@ image:
 projects: []
 publishDate: '2022-06-14T19:02:38.893267Z'
 publication_types:
-- '2'
+- journal-article
+- all
 abstract: ''
 publication: '*American Journal of Physics*'
 publication: '*Am. J. Phys. 80(8), 688-693*'

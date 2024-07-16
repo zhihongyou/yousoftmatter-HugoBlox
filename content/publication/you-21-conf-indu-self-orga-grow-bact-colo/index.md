@@ -31,7 +31,8 @@ image:
 projects: []
 publishDate: '2022-06-14T19:02:39.520025Z'
 publication_types:
-- '2'
+- journal-article
+- all
 abstract: ''
 publication: '*Science Advances*'
 publication: '*Sci. Adv. 7(4), eabc8685*'
