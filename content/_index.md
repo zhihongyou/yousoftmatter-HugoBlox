@@ -11,7 +11,6 @@ sections:
       title: You Soft Matter Group
       image:
         filename: welcome.jpg
-        focal_point: Left
       text: |
         <br>
 
